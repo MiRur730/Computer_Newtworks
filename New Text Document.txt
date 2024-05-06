@@ -1,0 +1,20 @@
+configure 
+
+slot nm4t /4T+   //for serial connection
+
+
+dono router ko configure krenge 
+now ewire uske serial 10
+
+install c3725router iso image
+
+
+wire fast ethernet 0 sswitch se Roter ko connect kro 
+
+now we wil start the configuration
+
+we wil now directly cloick on the green start traiangle 
+
+-open console of router 
+conf t
+-now we have gone to configuration command 
